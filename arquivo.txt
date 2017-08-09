@@ -1,3 +1,4 @@
 meu arquivo de texto
 arquivo do linux
 modificar arquivo
+ls listar diretorio
